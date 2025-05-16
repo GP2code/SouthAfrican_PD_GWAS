@@ -2,7 +2,7 @@
 
 `GP2 ❤️ Open Science 😍`
 
-[DOI: pending]
+[![DOI](https://zenodo.org/badge/984313052.svg)](https://doi.org/10.5281/zenodo.15442537)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
